@@ -1,0 +1,14 @@
+# dependências e caches (não versionar)
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# artefatos de produção gerados
+output/*/node_modules/
+output/*/out/
+output/*/public/audio/
+
+# sistema
+.DS_Store
+*.log

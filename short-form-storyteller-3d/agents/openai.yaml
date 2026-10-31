@@ -1,0 +1,6 @@
+interface:
+  display_name: "Storyteller 3D"
+  short_description: "Cria e renderiza vídeos 3D a partir de um tema"
+  default_prompt: "Use $short-form-storyteller-3d para gerar e renderizar um vídeo 3D vertical sobre: [TEMA]."
+policy:
+  allow_implicit_invocation: true
